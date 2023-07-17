@@ -1,4 +1,4 @@
-# My_Portfolio_Website
+# Digital Canvas: Unveiling My Skills
 I have created a personal portfolio website to showcase my skills by utilizing HTML, CSS, and JavaScript. 
 I crafted an engaging and dynamic website that effectively represents my capabilities.
 
